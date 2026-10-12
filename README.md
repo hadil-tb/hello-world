@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Git and GitHub Homework
+# Git and GitHub tutorial
 
 This repository demonstrates the main Git and GitHub operations.
 
@@ -11,7 +10,3 @@ This repository demonstrates the main Git and GitHub operations.
 - Branches
 - GitHub Flow
 - GitHub Pages
-=======
-# hello-world
-Hello World Repository for Git Tutorial
->>>>>>> 6b87048b56cff395fbd2b982d49836491adcf19d
